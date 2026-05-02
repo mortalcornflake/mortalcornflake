@@ -1,8 +1,8 @@
 ### Hey, I'm Aaron
 
-Independent builder. I make things that work and put them into the world.
+Independent builder. I make things and put them into the world.
 
-Right now I'm somewhere in Vietnam with a backpack, a laptop, and an AI that remembers everything I've told it for the last three months. Most of my recent work ships from hostels and hammocks.
+Right now I'm somewhere in Vietnam with a backpack, a laptop, and an AI that remembers everything I've told it. Most of my recent work ships from hostels and hammocks.
 
 ---
 
